@@ -1,2 +1,2 @@
 # 8W8L
-Summer 2k20 project
+Summer 2020 project under Programming Club to understand fundamentals of various languages.
